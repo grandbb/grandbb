@@ -7,6 +7,7 @@ I build small Ethereum learning projects and tools for exploring onchain data. M
 | Project | Live app | What it does |
 | --- | --- | --- |
 | [ArcScope](https://github.com/grandbb/ArcScope) | [arc-scope.vercel.app](https://arc-scope.vercel.app/) | Explore an Arc Mainnet portfolio and onchain analytics dashboard. |
+| [BeaconPay](https://github.com/grandbb/BeaconPay) | [beaconpay-pharos.vercel.app](https://beaconpay-pharos.vercel.app/) | A live Pharos mainnet payment application. |
 
 ## SpeedRun Ethereum collection
 
