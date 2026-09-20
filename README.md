@@ -2,6 +2,12 @@
 
 I build small Ethereum learning projects and tools for exploring onchain data. My latest work is a complete [SpeedRun Ethereum](https://speedrunethereum.com/builders/0x11315Cce8f009e4CB4234FFEAF2E860b84E5b0f6) challenge collection: each project has Solidity tests, a verified Sepolia contract, and a live testnet demo.
 
+## LIVE Mainnet
+
+| Project | Live app | What it does |
+| --- | --- | --- |
+| [ArcScope](https://github.com/grandbb/ArcScope) | [arc-scope.vercel.app](https://arc-scope.vercel.app/) | Explore an Arc Mainnet portfolio and onchain analytics dashboard. |
+
 ## SpeedRun Ethereum collection
 
 | Project | Live demo | What it demonstrates |
@@ -21,19 +27,10 @@ I build small Ethereum learning projects and tools for exploring onchain data. M
 
 | Project | What you can try |
 | --- | --- |
-<<<<<<< HEAD
-| [ArcFX Remittance](https://github.com/grandbb/arc-remittance-dapp) | Run a local USDC/EURC remittance demo with mock tokens. No wallet or testnet funds required. |
-| [ArcScope](https://github.com/grandbb/ArcScope) | Explore an Arc Mainnet portfolio and onchain analytics dashboard. |
-| [SpeedRun Crowdfunding](https://github.com/grandbb/speedrun-crowdfunding) | A crowdfunding learning project built with Scaffold-ETH 2. [Live demo](https://speedrun-crowdfunding-sigma.vercel.app). |
-| [SpeedRun Tokenization](https://github.com/grandbb/speedrun-tokenization) | An ERC-721 NFT learning project deployed on Sepolia. |
-| [SpeedRun Token Vendor](https://github.com/grandbb/speedrun-token-vendor) | Buy and sell a fixed-supply ERC-20 with an explicit approval flow. Verified contracts on Sepolia; local grading tests pass. |
-| [SpeedRun Dice Game](https://github.com/grandbb/speedrun-dice-game) | A testnet demonstration of predictable onchain randomness. Verified contracts on Sepolia; local grading tests pass. |
-=======
 | [ArcFX Remittance](https://github.com/grandbb/arc-remittance-dapp) | Run a local USDC/EURC remittance demo with mock tokens. |
->>>>>>> 26a650b (Showcase complete SpeedRun Ethereum collection)
 
 ## Build along
 
 Each repository is meant for learning, experimentation, and small focused improvements. Start with its README and tests. Fork a project to adapt it, and open an issue for reproducible bugs or improvements.
 
-**Testnet prototypes only:** these projects are educational and not audited financial products. Use mock or testnet assets.
+**Testnet prototypes only:** the SpeedRun projects are educational and not audited financial products. Use mock or testnet assets.
