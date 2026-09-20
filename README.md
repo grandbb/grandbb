@@ -7,7 +7,7 @@ I build small Ethereum learning projects and tools for exploring onchain data.
 | Project | What you can try |
 | --- | --- |
 | [ArcFX Remittance](https://github.com/grandbb/arc-remittance-dapp) | Run a local USDC/EURC remittance demo with mock tokens. No wallet or testnet funds required. |
-| [ArcScope](https://github.com/grandbb/ArcScope) | Explore an Arc Testnet portfolio and onchain analytics dashboard. |
+| [ArcScope](https://github.com/grandbb/ArcScope) | Explore an Arc Mainnet portfolio and onchain analytics dashboard. |
 | [SpeedRun Crowdfunding](https://github.com/grandbb/speedrun-crowdfunding) | A crowdfunding learning project built with Scaffold-ETH 2. [Live demo](https://speedrun-crowdfunding-sigma.vercel.app). |
 | [SpeedRun Tokenization](https://github.com/grandbb/speedrun-tokenization) | An ERC-721 NFT learning project deployed on Sepolia. |
 | [SpeedRun Token Vendor](https://github.com/grandbb/speedrun-token-vendor) | Buy and sell a fixed-supply ERC-20 with an explicit approval flow. Verified contracts on Sepolia; local grading tests pass. |
