@@ -30,7 +30,6 @@ I build small Ethereum learning projects and tools for exploring onchain data. M
 | [SpeedRun Dice Game](https://github.com/grandbb/speedrun-dice-game) | A testnet demonstration of predictable onchain randomness. Verified contracts on Sepolia; local grading tests pass. |
 =======
 | [ArcFX Remittance](https://github.com/grandbb/arc-remittance-dapp) | Run a local USDC/EURC remittance demo with mock tokens. |
-| [ArcScope](https://github.com/grandbb/ArcScope) | Explore an Arc Mainnet portfolio and onchain analytics dashboard. |
 >>>>>>> 26a650b (Showcase complete SpeedRun Ethereum collection)
 
 ## Build along
