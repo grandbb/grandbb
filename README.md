@@ -7,6 +7,7 @@ I build small Ethereum learning projects and tools for exploring onchain data. M
 | Project | Live app | What it does |
 | --- | --- | --- |
 | [ArcScope](https://github.com/grandbb/ArcScope) | [arc-scope.vercel.app](https://arc-scope.vercel.app/) | Explore an Arc Mainnet portfolio and onchain analytics dashboard. |
+| [ArcFX](https://github.com/grandbb/arc-remittance-dapp) | [arcfx-omega.vercel.app](https://arcfx-omega.vercel.app/) | Swap USDC and EURC on Arc Mainnet through the existing Uniswap V3 liquidity pool. |
 | [BeaconPay](https://github.com/grandbb/BeaconPay) | [beaconpay-pharos.vercel.app](https://beaconpay-pharos.vercel.app/) | A live Pharos mainnet payment application. |
 
 ## SpeedRun Ethereum collection
@@ -23,12 +24,6 @@ I build small Ethereum learning projects and tools for exploring onchain data. M
 | [Stablecoins](https://github.com/grandbb/speedrun-stablecoins) | [Open demo](https://grandbb-speedrun-stablecoins.vercel.app/dashboard) | Collateralized stablecoin, rates, and savings staking. |
 | [Prediction Markets](https://github.com/grandbb/speedrun-prediction-markets) | [Open demo](https://grandbb-speedrun-prediction-markets.vercel.app/user) | Liquidity, outcome tokens, pricing, and settlement. |
 | [ZK Voting](https://github.com/grandbb/speedrun-zk-voting) | [Open demo](https://grandbb-speedrun-zk-voting.vercel.app/voting) | Allowlisted voting, Merkle trees, and nullifier-based double-vote prevention. |
-
-## Other projects
-
-| Project | What you can try |
-| --- | --- |
-| [ArcFX Remittance](https://github.com/grandbb/arc-remittance-dapp) | Run a local USDC/EURC remittance demo with mock tokens. |
 
 ## Build along
 
