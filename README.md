@@ -7,6 +7,7 @@ I build small Ethereum learning projects and tools for exploring onchain data. M
 | Project | Live app | What it does |
 | --- | --- | --- |
 | [ArcScope](https://github.com/grandbb/ArcScope) | [arc-scope.vercel.app](https://arc-scope.vercel.app/) | Explore an Arc Mainnet portfolio and onchain analytics dashboard. |
+| [SeatBack](https://github.com/grandbb/SeatBack) | [arc-scope.vercel.app](https://arc-studio-seatback.vercel.app/) | Reserve a seat with USDC. Attend and get it back.. |
 | [ArcFX](https://github.com/grandbb/arc-remittance-dapp) | [arcfx-omega.vercel.app](https://arcfx-omega.vercel.app/) | Swap USDC and EURC on Arc Mainnet through the existing Uniswap V3 liquidity pool. |
 | [BeaconPay](https://github.com/grandbb/BeaconPay) | [beaconpay-pharos.vercel.app](https://beaconpay-pharos.vercel.app/) | A live Pharos mainnet payment application. |
 
