@@ -1,4 +1,4 @@
-# Hi, I'm grandbb
+# Hi, I'm Maxplay
 
 I build small Ethereum learning projects and tools for exploring onchain data. My latest work is a complete [SpeedRun Ethereum](https://speedrunethereum.com/builders/0x11315Cce8f009e4CB4234FFEAF2E860b84E5b0f6) challenge collection: each project has Solidity tests, a verified Sepolia contract, and a live testnet demo.
 
